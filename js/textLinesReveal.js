@@ -1,6 +1,4 @@
-import SplitType from 'split-type';
-import { wrapLines } from './utils';
-import { gsap } from 'gsap';
+import { wrapLines } from './utils.js';
 
 /**
  * Class representing a text line element that reveals itself by animating its translateY value

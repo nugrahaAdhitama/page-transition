@@ -1,5 +1,3 @@
-import { gsap } from 'gsap';
-
 /**
  * Class representing a Grid Item
  */

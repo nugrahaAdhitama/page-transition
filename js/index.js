@@ -1,6 +1,6 @@
 // import { gsap } from "gsap";
-import { Item } from './item';
-import { Preview } from './preview';
+import { Item } from './item.js';
+import { Preview } from './preview.js';
 
 // body element
 const body = document.body;

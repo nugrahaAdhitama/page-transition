@@ -1,4 +1,4 @@
-import { TextLinesReveal } from './textLinesReveal';
+import { TextLinesReveal } from './textLinesReveal.js';
 
 /**
  * Class representing a Preview
